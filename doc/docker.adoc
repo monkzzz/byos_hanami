@@ -20,7 +20,7 @@ To get setup, run:
 
 [source,bash]
 ----
-git clone https://github.com/usetrmnl/byos_hanami terminus
+git clone https://github.com/monkzzz/byos_hanami terminus
 cd terminus
 bin/setup docker
 ----
