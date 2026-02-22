@@ -86,6 +86,12 @@ To launch the development stack, run:
 docker-compose --file compose.dev.yml up
 ----
 
+Or in the case of using Compose v2
+[source,bash]
+----
+docker compose --file compose.dev.yml up --build
+----
+
 == Production
 
 To launch the production stack, run:
